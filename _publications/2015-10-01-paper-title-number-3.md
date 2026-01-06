@@ -1,8 +1,8 @@
 ---
 title: "Learning to optimise reading: An exploratory study of eye movement transfer across languages"
 collection: publications
-category: manuscripts
-permalink: /publication/phd-thesis-eye-movement-transfer
+category: dissertations
+permalink: /publication/learning-to-optimise-reading-phd
 excerpt: "An in-depth eye-tracking investigation of cross-linguistic transfer in L1 and L2 reading."
 date: 2024-07-18
 venue: "University of Birmingham (PhD thesis)"
