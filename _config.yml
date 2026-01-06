@@ -25,20 +25,18 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Shiyu He"  Shiyu He
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  pronouns         : "she/her"  
+  bio              : "Hi This is Celia Shiyu He"
+  location         : "London"
+  employer         : "Royal Holloway, University of London"
   uri              : # URL
   email            : "none@example.org" 
 
   # Academic websites
-  academia         : xxxxxxxxxxx
+  academia         : # xxxxxxxxxxx
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  googlescholar    : "https://scholar.google.com/citations?user=vaRAUEgAAAAJ&hl=en&oi=sra"
+  orcid            : "https://orcid.org/0009-0009-8832-167X"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
