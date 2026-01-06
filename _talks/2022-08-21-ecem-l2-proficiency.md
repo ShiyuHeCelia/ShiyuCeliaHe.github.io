@@ -15,10 +15,10 @@ This talk demonstrated how eye-movement measures during natural reading capture 
 ## Materials
 - Slides: *to be added*
 
+
 ## Gallery
-<figure>
-  <img src="/images/talks/ecem2022.jpg" alt="ECEM 2022 presentation">
-  <figcaption>
-    Talk at the European Conference on Eye Movements (ECEM 2022), University of Leicester.
-  </figcaption>
-</figure>
+
+![ECEM 2022 presentation]({{ site.baseurl }}/images/talks/ecem2022.jpg)
+
+*Talk at the European Conference on Eye Movements (ECEM 2022), University of Leicester.*
+
