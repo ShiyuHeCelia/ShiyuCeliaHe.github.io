@@ -8,4 +8,5 @@ status: "Accepted (not presented)"
 note: "Not attended due to visa reasons"
 ---
 
-Accepted oral presentation at EuroSLA 31. The talk examined how L2 proficiency modulates eye-movement behaviour during reading.
+Accepted oral presentation at EuroSLA 31.  
+The talk examined how L2 proficiency modulates eye-movement behaviour during reading.
