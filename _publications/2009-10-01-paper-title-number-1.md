@@ -1,14 +1,17 @@
 ---
-title: "Paper Title Number 1"
+title: "Optimising participant grouping methods in bilingualism studies: Insights from eye-tracking data"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publications/optimising-participant-grouping
+excerpt: "A data-driven approach to identifying L2 proficiency groups using eye-tracking measures and multivariate methods."
+date: 2025-04-28
+venue: "Linguistic Approaches to Bilingualism"
+
+paperurl: "https://doi.org/10.1075/lab.24019.he"
+journalurl: "https://www.jbe-platform.com/content/journals/10.1075/lab.24019.he"
+
+citation: >
+  He, S., Divjak, D., & Milin, P. (2025).
+  <i>Optimising participant grouping methods in bilingualism studies: Insights from eye-tracking data</i>.
+  Linguistic Approaches to Bilingualism.
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
