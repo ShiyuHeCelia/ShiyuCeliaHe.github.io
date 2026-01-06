@@ -1,13 +1,11 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Expertise affects categorisation, in language too: (the) case (of) constructions"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: books
+permalink: /publications/expertise-affects-categorisation
+excerpt: "A study of how linguistic expertise shapes categorisation behaviour, with evidence from constructional analysis."
+date: 2024-01-01
+venue: "Book chapter (preprint)"
+paperurl: "https://pure-oai.bham.ac.uk/ws/portalfiles/portal/272333420/PURE_PolishCase_Revised.pdf"
+citation: "Divjak, D., He, S., & Borowski, M. (2024). <i>Expertise affects categorisation, in language too: (the) case (of) constructions</i>."
 ---
-
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
