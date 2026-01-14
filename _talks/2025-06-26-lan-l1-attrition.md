@@ -15,4 +15,4 @@ This invited talk focused on the impact of prolonged L2 (English) exposure on L1
 ## External link
 
 🔗 **Talk announcement**:  
-[Language Attrition Network event page]([https://PUT-THE-REAL-URL-HERE](https://linguistlist.org/issues/36/1776/))
+[Language Attrition Network event page](https://linguistlist.org/issues/36/1776/)
