@@ -13,7 +13,7 @@ I am currently an **ESRC-funded Postdoctoral Research Fellow** at **Royal Hollow
 
 ---
 <div class="profile-extra-images">
-  <img src="/images/celia eyetracker2.jpg" alt="Eye-tracking experiment">
+  <img src="{{ site.baseurl }}/images/celia_eyetracker2.jpg" alt="Eye-tracking experiment">
 </div>
 ## Research interests
 
