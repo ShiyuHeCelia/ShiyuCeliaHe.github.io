@@ -26,8 +26,7 @@ References
 
 ## Gallery
 
-{% include gallery
-   id="amlap2025"
-   layout="half"
-   caption="AMLaP 2025 poster and experimental materials"
-%}
+<div class="talk-gallery">
+  <img src="/images/talks/amlap_talk2.jpg" alt="AMLaP 2025 poster presentation">
+  <img src="/images/talks/amlap_talk_1.jpg" alt="AMLaP 2025 oral presentation">
+</div>
