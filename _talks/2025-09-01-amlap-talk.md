@@ -1,7 +1,7 @@
 ---
 title: "The Cost of L2 Fluency: Eye-Movement Evidence for Reduced L1 Reading Automaticity"
-collection: talks
-type: "Talk"
+collection: posters
+type: "Poster"
 permalink: /talks/2025-amlap-talk/
 venue: "AMLaP 2025"
 date: 2025-09-01
