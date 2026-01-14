@@ -12,8 +12,7 @@ status: "presented"
 ## Abstract
 This invited talk focused on the impact of prolonged L2 (English) exposure on L1 (Chinese) reading behaviour, highlighting eye-tracking evidence for L1 attrition effects.
 
-## Materials
-- Slides: *to be added*
-- Recording: *to be added*
+## External link
 
-## Gallery
+🔗 **Talk announcement**:  
+[Language Attrition Network event page]([https://PUT-THE-REAL-URL-HERE](https://linguistlist.org/issues/36/1776/))
