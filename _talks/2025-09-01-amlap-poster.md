@@ -24,8 +24,4 @@ References
 [5] Yan, M., Kliegl, R., Shu, H., Pan, J., & Zhou, X. (2010). Parafoveal load of word N+1 modulates preprocessing effectiveness of word N+2 in Chinese reading. Journal of Experimental Psychology: Human Perception and Performance, 36(6), 1669–1676. https://doi.org/10.1037/a0019329
 [6] Liu, Y., Reichle, E. D., & Wang, J. (2018). Word predictability affects saccade targeting during Chinese reading. Journal of Experimental Psychology: Learning, Memory, and Cognition, 44(5), 756–764. https://doi.org/10.3758/s13423-017-1357-x
 
-
-## Materials
-- Poster PDF: *to be added*
-
 ## Gallery
