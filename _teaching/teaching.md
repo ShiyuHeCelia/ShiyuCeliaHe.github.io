@@ -3,7 +3,6 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 layout: single
-date: 2024-01-01
 classes: wide
 ---
 
