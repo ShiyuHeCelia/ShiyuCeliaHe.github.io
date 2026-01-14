@@ -7,6 +7,10 @@ venue: "AMLaP 2025"
 date: 2025-09-01
 location: "Prague, Czech Republic"
 status: "accepted"
+excerpt: >
+  This study investigates whether L2 English proficiency and exposure modulate
+  word frequency and length effects during L1 Chinese reading, using eye-tracking
+  evidence to examine potential reductions in L1 reading automaticity.
 ---
 
 ## Abstract
