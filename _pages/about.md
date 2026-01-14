@@ -12,7 +12,10 @@ I am a postdoctoral researcher in **psycholinguistics and cognitive psychology**
 I am currently an **ESRC-funded Postdoctoral Research Fellow** at **Royal Holloway, University of London**, working with **Prof. Kathy Rastle** and collaborators on projects investigating **visual word recognition and reading behaviour across languages and orthographies**. Alongside this role, I have extensive experience in **experimental design, eye-tracking methodology, advanced quantitative data analysis, and research methods training**.
 
 ---
-
+<div class="profile-extra-images">
+  <img src="/images/celia eyetracker2.jpg" alt="Eye-tracking experiment">
+  <img src="/images/celia teaching1.jpg" alt="Teaching and research activity">
+</div>
 ## Research interests
 
 My research lies at the intersection of **psycholinguistics, vision science, and cognitive psychology**, with a primary focus on **eye movements during reading**. I am interested in how reading unfolds over time and how the temporal dynamics of eye movements are shaped by linguistic structure, experience, and individual variation.
