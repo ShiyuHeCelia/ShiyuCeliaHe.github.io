@@ -25,3 +25,9 @@ References
 [6] Liu, Y., Reichle, E. D., & Wang, J. (2018). Word predictability affects saccade targeting during Chinese reading. Journal of Experimental Psychology: Learning, Memory, and Cognition, 44(5), 756–764. https://doi.org/10.3758/s13423-017-1357-x
 
 ## Gallery
+
+{% include gallery
+   id="amlap2025"
+   layout="half"
+   caption="AMLaP 2025 poster and experimental materials"
+%}
