@@ -3,10 +3,10 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 layout: single
-show_date: false
-show_read_time: false
+date: 2024-01-01
 classes: wide
 ---
+
 ## Teaching profile
 
 My teaching focuses on **research methods, experimental design, and quantitative skills** in psychology and linguistics, with particular expertise in **eye-tracking methodologies** and reproducible data analysis.
