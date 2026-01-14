@@ -9,8 +9,8 @@ redirect_from:
 
 I am a postdoctoral researcher in **psycholinguistics and cognitive psychology**, working in the field of **eye movements during reading**. My research focuses on the **real-time dynamics of reading**, examining how eye movements reflect the moment-by-moment allocation of attention and processing as written language unfolds. A central theme of my work is understanding how **linguistic experience, proficiency, and exposure shape individual differences in eye-movement behaviour during reading**, particularly across languages and writing systems.
 
-I am currently an ESRC-funded Postdoctoral Research Fellow at Royal Holloway, University of London, working with [Prof. Kathy Rastle]([https://www.kathyrastle.com](https://pure.royalholloway.ac.uk/en/persons/kathy-rastle/)) and the [Rastle Lab
-Literacy, Language, Learning]([https://www.vwrlab.org](https://www.rastlelab.com/)) on projects investigating visual word recognition and reading behaviour across languages and orthographies. The project is co-led by [Professor Denis Drieghe](https://www.southampton.ac.uk/people/5x6gmg/professor-denis-drieghe#research) and [Dr Sami Boudelaa](https://faculty.uaeu.ac.ae/s_boudelaa/home.htm).Alongside this role, I have extensive experience in **experimental design, eye-tracking methodology, advanced quantitative data analysis, and research methods training**.
+I am currently an ESRC-funded Postdoctoral Research Fellow at Royal Holloway, University of London, working with [Prof. Kathy Rastle](https://pure.royalholloway.ac.uk/en/persons/kathy-rastle/)) and the [Rastle Lab
+Literacy, Language, Learning](https://www.rastlelab.com/)) on projects investigating visual word recognition and reading behaviour across languages and orthographies. The project is co-led by [Professor Denis Drieghe](https://www.southampton.ac.uk/people/5x6gmg/professor-denis-drieghe#research) and [Dr Sami Boudelaa](https://faculty.uaeu.ac.ae/s_boudelaa/home.htm).Alongside this role, I have extensive experience in **experimental design, eye-tracking methodology, advanced quantitative data analysis, and research methods training**.
 
 ---
 
