@@ -1,11 +1,11 @@
 ---
 title: 'AMLAP 2025'
-date: 2199-01-01
+date: 2025-09-10
 permalink: /posts/2012/08/blog-post-4/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - conference
+  - AMLaP
+  - eye-tracking
 ---
 
 I attended the **Architectures and Mechanisms for Language Processing (AMLaP)** conference, where I had the opportunity to present my work on bilingual reading and eye movements.
