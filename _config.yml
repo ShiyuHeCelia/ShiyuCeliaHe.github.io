@@ -28,7 +28,7 @@ author:
   name             : "Shiyu He"
   pronouns         : "she/her"  
   bio              : "Hi This is Celia Shiyu He"
-  location         : "London"
+  location         : "Egham"
   employer         : "Royal Holloway, University of London"
   uri              : # URL
   email            : "s.c.he@bham.ac.uk" 
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "https://bsky.app/profile/celia-shiyuhe.bsky.social" # Replace this with you Bluesky username
+  bluesky          : "celia-shiyuhe.bsky.social" # Replace this with you Bluesky username
   twitter          : "https://x.com/ShiyuHe1"
 
 # Publication Category - The following the list of publication categories and their headings
