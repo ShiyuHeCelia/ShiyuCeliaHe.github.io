@@ -2,9 +2,7 @@
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
-date: 2024-01-01
-header:
-  show_date: false
+layout: single
 ---
 
 ## Teaching profile
