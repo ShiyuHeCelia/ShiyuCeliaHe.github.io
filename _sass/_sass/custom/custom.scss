@@ -10,3 +10,8 @@
   object-fit: cover;
   border-radius: 0;
 }
+
+/* Make sidebar profile image square */
+.author__avatar img {
+  border-radius: 0 !important;
+}
