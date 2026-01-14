@@ -20,7 +20,7 @@ var addressPoints = [
     7.1027113
   ],
   [
-    "TITLE TBC<br />AMLaP 2025; Prague, Czech Republic",
+    "Where L2 Still Looks L2: Spatial Undershoot and Logographic Saccadic Programming in Advanced L1 Chinese/L2 English Readers<br />AMLaP 2025; Prague, Czech Republic",
     50.0874654,
     14.4212535
   ],
