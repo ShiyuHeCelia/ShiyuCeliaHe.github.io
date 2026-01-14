@@ -17,6 +17,7 @@ I am currently an **ESRC-funded Postdoctoral Research Fellow** at **Royal Hollow
   <img src="{{ site.baseurl }}/images/celia_eyetracker2.jpg" alt="Eye-tracking experiment">
 </div>
 
+
 ## Research interests
 
 My research lies at the intersection of **psycholinguistics, vision science, and cognitive psychology**, with a primary focus on **eye movements during reading**. I am interested in how reading unfolds over time and how the temporal dynamics of eye movements are shaped by linguistic structure, experience, and individual variation.
