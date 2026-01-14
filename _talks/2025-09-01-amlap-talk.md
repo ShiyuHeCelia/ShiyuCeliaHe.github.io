@@ -23,17 +23,7 @@ Linear mixed-effects models examined first fixation duration and total reading t
 
 The findings suggest that increased L2 proficiency and exposure may reduce L1 reading automaticity, consistent with early stages of L1 attrition. By demonstrating how L2 experience reshapes sensitivity to lexical properties in L1 reading, this study contributes to models of bilingual language processing and highlights the potential cost of advanced L2 fluency for native-language reading.
 
-## Poster
-
-<iframe 
-  src="/files/He_Milin_Divjak_AMLaP2025_Poster.pdf"
-  width="100%"
-  height="900px"
-  style="border: none;">
-</iframe>
-
-<p>
-  <a href="/files/He_Milin_Divjak_AMLaP2025_Poster.pdf" target="_blank">
-    Open poster in a new tab
-  </a>
-</p>
+## Gallery
+<div class="talk-gallery">
+  <img src="/images/talks/amlap_poster.jpg" alt="AMLaP 2025 poster presentation">
+</div>
