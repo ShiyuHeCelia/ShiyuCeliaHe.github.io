@@ -1,7 +1,7 @@
 ---
 title: "Where L2 Still Looks L2: Spatial Undershoot and Logographic Saccadic Programming in L1 Chinese/L2 English Readers"
 collection: talks
-type: "Poster"
+type: "Talk"
 permalink: /talks/2025-amlap-poster/
 venue: "AMLaP 2025"
 date: 2025-09-01
