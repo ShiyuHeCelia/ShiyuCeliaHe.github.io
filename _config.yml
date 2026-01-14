@@ -39,6 +39,11 @@ author:
   orcid            : "https://orcid.org/0009-0009-8832-167X"
   researchgate     : "https://www.researchgate.net/profile/Shiyu-He-16?ev=hdr_xprf"
 
+ # Custom links
+  custom_links:
+    - label: "Out of Our Minds Lab"
+      icon: "fas fa-brain"
+      url: "https://outofourminds.bham.ac.uk/"
 
 
   # Repositories and software development
