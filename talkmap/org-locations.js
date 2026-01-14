@@ -20,7 +20,7 @@ var addressPoints = [
     7.1027113
   ],
   [
-    "Where L2 Still Looks L2: Spatial Undershoot and Logographic Saccadic Programming in Advanced L1 Chinese/L2 English Readers<br />AMLaP 2025; Prague, Czech Republic",
+    "The Cost of L2 Fluency: Eye-Movement Evidence for Reduced L1 Reading Automaticity<br />AMLaP 2025; Prague, Czech Republic",
     50.0874654,
     14.4212535
   ],
